@@ -28,9 +28,17 @@ npm start
 
 ### [backend-fake-api](https://github.com/alanmvieira/labcode/tree/master/backend-fake-api) 
 
-Projeto que simular uma api que no caso deveria ser desenvolvida em Django/python. Esse projeto é utilizar o módulo json-server (no node) para ler e disponbilizar informações de um json.
+O projeto tem o intuito de simular uma api que no caso deveria ser desenvolvida em Django/python. Nesse projeto é utilizado o módulo json-server (do node) para ler e disponbilizar informações e ações de um json.
 
 Para executar o projeto é necessário, no terminal da máquina, navegar onde se encontra o projeto e executar o comando.
 ```
 json-server --watch db.json --port 3001
 ```
+
+### project-backend
+
+TODO
+
+## Considerações finais
+
+TODO
